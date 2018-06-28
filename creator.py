@@ -38,7 +38,7 @@ while 1:
     cv2.waitKey(100)
     cv2.imshow('img',img)
     cv2.waitKey(1)
-    if(id_no>20):
+    if(id_no>30):
          break;
 
 cap.release()
