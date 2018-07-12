@@ -1,7 +1,7 @@
  Face-Detection-and-Recognition<br/><br/>
 1.It application is buils in two variations with two ways with sqlite and without sqlite, sqlite is database used for the storing information about the person.<br/>
  Before proceeding further i want add few instruction they are as follows.</br>
-It will first detect the person using Haar-like-feature from web camp divide into frames with different emotions and frames are stored and used for trainning in such way that 30 frames per person.<br/> it will classify the frames based on CascadeClassifier. In recognizer will use this trained module for matching the trainned frames with realtime captures videos</br><br/>
+•It will first detect the person using Haar-like-feature from web camp divide into frames with different emotions and frames are stored and used for trainning in such way that 30 frames per person.<br/> •it will classify the frames based on CascadeClassifier. In recognizer will use this trained module for matching the trainned frames with realtime captures videos</br><br/>
 a. Kindly maintains single path for the dataset, database, and code. DataSet is zipped folder to acess it unzipp it.<br/>
 b. Demo video will shows the execution, further details will clearify in douts.<br/>
 c.Execute the modules such that creator, trainner,face_detect_recog.<br/><br/>
